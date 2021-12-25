@@ -22,7 +22,7 @@
 - name: track 4 [이서 화이팅]
   gh_user: ArvatoSystems
   repo: FaceApiWPF
-  img: https://github.com/steammakers101/steammakers101.github.io/blob/main/images/avatar3.jpg
+  img: https://scontent.ficn1-1.fna.fbcdn.net/v/t39.30808-6/241535269_367781268471453_368427215982040989_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=46ILCIyAwo0AX9CQmaC&_nc_ht=scontent.ficn1-1.fna&oh=00_AT_j2fLtBU9ZrAfCMws0sDv_nHXb-49YnoxFZYbdHuMIFA&oe=61CB8C1E
   desc: Using the WebCam and send continuously pictures to the Azure FaceAPI. The analyzed results like age and emotion drawn on the WebCam stream. 
 
 - name: track 5 [이게 맞나?]
