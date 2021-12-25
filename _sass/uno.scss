@@ -1,4 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400)';
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Cute+Font&family=Single+Day&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
 /* http://meyerweb.com/eric/tools/css/reset/
 	 v2.0 | 20110126
 	 License: none (public domain)
@@ -54,8 +57,8 @@ html {
 	max-height: 100%; }
 
 body {
-	font-family: "Raleway", sans-serif;
-	font-size: 1em;
+	font-family: "Single Day", sans-serif; /*홈페이지 문장 글자체*/
+	font-size: 1.3em;
 	color: #666666; }
 
 ::selection {
@@ -82,8 +85,8 @@ h5,
 h5 {
 	margin-top: .8em;
 	margin-bottom: .4em;
-	font-family: "Roboto Slab", serif;
-	font-weight: lighter;
+	font-family: "Dongle", serif; /*홈페이지 대문 이름과 트랙 제목 글자체*/
+	font-weight: bold;
 	color: #333333;
 	-webkit-font-smoothing: antialiased; }
 
@@ -127,7 +130,7 @@ blockquote {
 	font-family: "Roboto Slab", serif;
 	font-weight: lighter;
 	font-style: italic;
-	font-size: 1.3em;
+	font-size: 10em;
 	text-align: center; }
 	blockquote p:last-child {
 		margin-bottom: 0; }
@@ -239,7 +242,7 @@ pre {
 	display: block;
 	padding: 2em 0 0 0;
 	border-top: 2px solid #dddddd;
-	font-size: .7em;
+	font-size: 1.2em; /*페이지 맨아래 저작권 글자 크기*/
 	color: #b3b3b3; }
 
 .footer__copyright {
@@ -320,7 +323,7 @@ hr {
 
 .panel-title {
 	margin: 0 0 5px 0;
-	font-size: 2.5em;
+	font-size: 3em;  /*타이틀 이름 폰트 크기*/
 	letter-spacing: 4px;
 	color: #FFF; }
 
@@ -355,8 +358,8 @@ hr {
 	bottom: 0;
 	left: 0;
 	background-color: rgba(68, 68, 68, 0.171);
-	background-image: -webkit-linear-gradient(-410deg, rgba(68, 68, 68, 0.6) 20%, rgba(0, 0, 0, 0.9));
-	background-image: linear-gradient(140deg,rgba(68, 68, 68, 0.6) 20%, rgba(0, 0, 0, 0.9)); }
+	background-image: -webkit-linear-gradient(-410deg, rgba(68, 68, 68, 0.37) 20%, rgba(0, 0, 0, 0.397));
+	background-image: linear-gradient(140deg,rgba(68, 68, 68, 0.445) 20%, rgba(0, 0, 0, 0.521)); }
 
 .panel-cover__logo {
 	margin-bottom: .2em; }

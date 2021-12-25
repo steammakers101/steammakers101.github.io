@@ -1,19 +1,19 @@
 # Site settings
-title: Lee, Seo
+title: 'Lee, Seo'
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'http://steammakers.github.io'
 baseurl: ''
 profilepic: '/images/avatar2.jpg'
 bkimage: '/images/avatar3.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: '52f361e427.js'
+font_awesome: '52f361e427.js' # 폰트어썸
 
 author:
   name: 'Lee, Seo'
   email: info@goyangfree.com
-  twitter_username: profile.php?id=100012284628798
+  twitter_username: 
   facebook_username: profile.php?id=100012284628798
-  intsagram_username:  profile.php?id=100012284628798
+  intsagram_username: 
   soundcloud_username: user-409382117
   youtube_name: c/TwosQuare투스퀘어/
 
