@@ -405,7 +405,7 @@ hr {
 	font-weight: 100;
 	text-align: center;
 	color: #FFF;
-	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4); }
+	text-shadow: 0 1px 1px rgba(255, 3, 3, 0.801); }
 	.panel-inverted a {
 		color: #FFF; }
 
@@ -483,8 +483,8 @@ hr {
 	left: 0;
 	width: 100%;
 	height: 42px;
-	background: rgba(49, 48, 48, 0.267);/*btn바탕색 */
-	border-bottom: 1px solid rgb(250, 6, 6);
+	background: rgba(49, 48, 48, 0.267);/*모바일용 메뉴 btn바탕색 */
+	border-bottom: 1px solid rgba(250, 6, 6, 0.1);
 	text-align: center; }
 
 .btn-mobile-menu__icon,
