@@ -1,5 +1,5 @@
 # Site settings
-title: 'Lee, Seo'
+title: 'STEAM Makers 101'
 description: 'Business Card Page'
 url: 'http://steammakers.github.io'
 baseurl: ''
@@ -9,11 +9,11 @@ google_analytics: UA-XXXXXX-X
 font_awesome: '52f361e427.js' # 폰트어썸
 
 author:
-  name: 'Lee, Seo'
-  email: info@goyangfree.com
+  name: 'STEAM Makers 101'
+  email: steammakers101@gmail.com
   twitter_username: 
   facebook_username: profile.php?id=100012284628798
-  intsagram_username: 
+  intsagram_username: steammakers101
   soundcloud_username: user-409382117
   youtube_name: c/TwosQuare투스퀘어/
 
