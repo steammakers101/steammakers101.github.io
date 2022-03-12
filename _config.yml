@@ -4,7 +4,7 @@ description: 'Business Card Page'
 url: 'http://steammakers.github.io'
 baseurl: ''
 profilepic: '/images/avatar5.jpg'
-bkimage: '/images/bg.jpg'
+bkimage: '/images/bg_2.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: '52f361e427.js' # 폰트어썸
 
